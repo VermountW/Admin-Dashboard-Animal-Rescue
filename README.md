@@ -16,7 +16,7 @@ This repository contains the **Admin Dashboard**, which serves as the central hu
 - Track ongoing rescue operations.
 
 ## Technologies Used
-- **Frontend**: React & JS
+- **Frontend**: JavaScript
 - **Backend**: Node.js
 - **Styling**: Tailwind CSS
 
