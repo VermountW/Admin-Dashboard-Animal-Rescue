@@ -2,9 +2,10 @@
 
 ## Overview
 The **Animal Rescue System** is a comprehensive platform designed to streamline the process of reporting and rescuing animals in distress. It consists of three main components:
-- **Admin Dashboard** - The UI for administrators to review and update the status of reported animal cases.
-- **Server** - The backend system that manages data and communication between users and administrators.
-- **User Report App** - The frontend application for users to report animal anomalies and track their case status.
+
+- **[Admin Dashboard](https://github.com/VermountW/Admin-Dashboard-Animal-Rescue)** - The UI for administrators to review and update the status of reported animal cases.
+- **[Server (Backend)](https://github.com/VermountW/Back-End-Animal-Rescue)** - The backend system that manages data and communication between users and administrators.
+- **[User App](https://github.com/VermountW/UserApp-Animal-Rescue)** - The frontend application for users to report animal anomalies and track their case status.
 
 This repository contains the **Admin Dashboard**, which serves as the central hub for managing animal rescue operations. **This project is designed to run locally and does not include a hosted deployment.**
 
