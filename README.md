@@ -3,10 +3,10 @@
 ## Overview
 The **Animal Rescue System** is a comprehensive platform designed to streamline the process of reporting and rescuing animals in distress. It consists of three main components:
 - **Admin Dashboard** - The UI for administrators to review and update the status of reported animal cases.
-- **Server** - The backend system that manages data, authentication, and communication between users and administrators.
+- **Server** - The backend system that manages data and communication between users and administrators.
 - **User Report App** - The frontend application for users to report animal anomalies and track their case status.
 
-This repository contains the **Admin Dashboard**, which serves as the central hub for managing animal rescue operations.
+This repository contains the **Admin Dashboard**, which serves as the central hub for managing animal rescue operations. **This project is designed to run locally and does not include a hosted deployment.**
 
 ## Features
 - View a list of reported animal cases.
@@ -17,8 +17,14 @@ This repository contains the **Admin Dashboard**, which serves as the central hu
 
 ## Technologies Used
 - **Frontend**: React & JS
-- **Backend**: Node.js 
-- **Styling**: Tailwind CSS (for a modern and clean UI)
+- **Backend**: Node.js
+- **Styling**: Tailwind CSS
+
+## Usage
+- The admin can access the dashboard.
+- The dashboard displays all reported cases.
+- Admins can update case statuses and assign rescue teams.
+- Status updates reflect in real-time for users tracking their cases.
 
 ## Installation
 1. Clone the repository:
@@ -30,16 +36,14 @@ This repository contains the **Admin Dashboard**, which serves as the central hu
    ```sh
    npm install
    ```
-3. Start the development server:
+3. Start the development server (local use only):
    ```sh
    npm start
    ```
 
-## Usage
-- The admin can access the dashboard.
-- The dashboard displays all reported cases.
-- Admins can update case statuses and assign rescue teams.
-- Status updates reflect in real-time for users tracking their cases.
+**Note:** This project is intended to run locally. Ensure that you have Node.js installed and all necessary dependencies configured before running the application.
+
+
 
 
 
